@@ -1,5 +1,5 @@
 {
-	"name": "package-template",
+	"name": "@chern_1997/package-template",
 	"version": "1.0.0",
 	"description": "Sample template to publish in public NPM",
 	"main": "dist/index.js",

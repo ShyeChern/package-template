@@ -1,6 +1,7 @@
 # Package Template
 
-Sample template to publish in public NPM.
+Sample template to publish in public NPM. Package can be found in the link below.
+[`https://www.npmjs.com/package/@chern_1997/package-template`](https://www.npmjs.com/package/@chern_1997/package-template)
 
 ## Setting
 
