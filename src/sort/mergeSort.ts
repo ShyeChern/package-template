@@ -15,7 +15,7 @@ export const mergeSort = <T>(
 	}
 ) => {
 	// helper function to merge two array in order
-	const merge = (left: Array<string | number | Object>, right: Array<string | number | Object>) => {
+	const merge = (left: Array<T>, right: Array<T>) => {
 		const results = [];
 		let key;
 		if (field) {

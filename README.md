@@ -12,12 +12,15 @@ Setting applied in this template
 - rootDir: Root directory of source files
 - outDir: Output directory of output files
 - declaration: Generate type information file for the function
+- baseUrl: Root directory
+- paths: Alias path to import files
 
 ### Package.json
 
 - main: Entry file of the project
 - types: Declaration entry file of the project
 - files: Files to include when installed as dependency
+- _moduleAliases: Register alias path in build files
 
 ## Testing
 
